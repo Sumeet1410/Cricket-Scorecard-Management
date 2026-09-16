@@ -336,7 +336,7 @@ class CricketScorecard extends CricketMatch {
 }
 
 // Main Application
-public class bce335 {
+public class CricketScorecardManagement {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter Team 1 name: ");
